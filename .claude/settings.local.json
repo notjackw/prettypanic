@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rustc --version)",
+      "Bash(cargo --version)",
+      "Bash(cargo build:*)",
+      "Bash(../target/debug/cargo-prettypanic prettypanic:*)",
+      "Bash(../prettypanic/target/debug/cargo-prettypanic prettypanic:*)",
+      "Bash(cargo test:*)",
+      "Bash(ls target/debug/deps/tester-*)"
+    ]
+  }
+}

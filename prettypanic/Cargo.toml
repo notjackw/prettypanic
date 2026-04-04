@@ -1,0 +1,15 @@
+[package]
+name = "cargo-prettypanic"
+version = "0.1.0"
+edition = "2021"
+description = "A cargo subcommand that makes panic backtraces human-readable by showing only your code"
+license = "MIT"
+keywords = ["cargo", "panic", "backtrace", "debugging", "subcommand"]
+categories = ["development-tools::cargo-plugins", "development-tools::debugging"]
+
+[[bin]]
+name = "cargo-prettypanic"
+path = "src/main.rs"
+
+[dependencies]
+colored = "2"
