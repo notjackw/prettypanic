@@ -4,3 +4,4 @@ corpus/
 artifacts/
 coverage/
 tester/
+.claude/
