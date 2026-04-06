@@ -1,1 +1,0 @@
-/Users/jackwilliams/Hello_World/pretty/prettypanic/target/debug/cargo-prettypanic: /Users/jackwilliams/Hello_World/pretty/prettypanic/src/main.rs /Users/jackwilliams/Hello_World/pretty/prettypanic/src/processor.rs
