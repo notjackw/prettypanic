@@ -3,6 +3,5 @@ Cargo.lock
 corpus/
 artifacts/
 coverage/
-tester/
 .claude/
 CLAUDE.md
