@@ -6,6 +6,8 @@ description = "A cargo subcommand that makes panic backtraces human-readable by 
 license = "MIT"
 keywords = ["cargo", "panic", "backtrace", "debugging", "subcommand"]
 categories = ["development-tools::cargo-plugins", "development-tools::debugging"]
+repository = "https://github.com/notjackw/prettypanic#"
+readme = "../README.md"
 
 [[bin]]
 name = "cargo-prettypanic"
